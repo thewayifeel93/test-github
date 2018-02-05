@@ -13,3 +13,5 @@ if op=="더하기":
     print("합은 %d 입니다."%summation(a[0],a[1]))
 if op=="빼기":
     print("차는 %d 입니다."%minus(a[0],a[1]))
+else:
+    print(" .")
